@@ -1,0 +1,16 @@
+{
+    "dependencies": {
+        "bootstrap": "^5.3.3"
+    },
+    "name": "list-items",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+        "sass": "sass --watch ./scss/index.scss ./css/index.css"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
